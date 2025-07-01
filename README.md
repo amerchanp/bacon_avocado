@@ -93,6 +93,8 @@ print(f"Fibonacci recursivo para n={n} = {resultado_rec}, tiempo: {tiempo_rec:.6
 print(f"Fibonacci iterativo para n={n} = {resultado_iter}, tiempo: {tiempo_iter:.6f} segundos")
 
 ```
+
+A partir de n = 30, la diferencia de tiempo entre la versión recursiva e iterativa se vuelve significativa. La versión recursiva tarda mucho más debido a la cantidad de llamadas repetidas.
 ---
 
 5. Crear cuenta en stackoverflow y adjuntar imagen en el repo
